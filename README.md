@@ -1,7 +1,7 @@
                                    
                                    
                                    
-                                  [Nero Verde Fluorescente Rosa Fluorescente Trendy Illustrativo Creativa Presentazione.pdf](https://github.com/MaSTERmIKK/MaSTERmIKK/files/10807571/Nero.Verde.Fluorescente.Rosa.Fluorescente.Trendy.Illustrativo.Creativa.Presentazione.pdf)
+                               (https://github.com/MaSTERmIKK/MaSTERmIKK/files/10807571/Nero.Verde.Fluorescente.Rosa.Fluorescente.Trendy.Illustrativo.Creativa.Presentazione.pdf)
 
 
                                    Mirko Campari -- TO -- Classe 95 -- Autonomo  --  Currently Working on:
