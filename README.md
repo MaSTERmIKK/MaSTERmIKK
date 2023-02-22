@@ -1,7 +1,8 @@
                                    
+ ![1](https://user-images.githubusercontent.com/82829377/220737623-9b0d7e89-857a-41ec-a670-4499fda13a3d.png)
+
                                    
-                                   
-                               (https://github.com/MaSTERmIKK/MaSTERmIKK/files/10807571/Nero.Verde.Fluorescente.Rosa.Fluorescente.Trendy.Illustrativo.Creativa.Presentazione.pdf)
+                               
 
 
                                    Mirko Campari -- TO -- Classe 95 -- Autonomo  --  Currently Working on:
@@ -18,4 +19,6 @@ Sono un programmatore OOP prestato per talento all'arte del tutoring, in cerca d
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+
 
