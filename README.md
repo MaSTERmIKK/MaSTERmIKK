@@ -1,9 +1,15 @@
-### Hi there 👋
+                                   
+                                   
+                                   
+                                  [Nero Verde Fluorescente Rosa Fluorescente Trendy Illustrativo Creativa Presentazione.pdf](https://github.com/MaSTERmIKK/MaSTERmIKK/files/10807571/Nero.Verde.Fluorescente.Rosa.Fluorescente.Trendy.Illustrativo.Creativa.Presentazione.pdf)
 
-<!--
-**MaSTERmIKK/MaSTERmIKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                                   Mirko Campari -- TO -- Classe 95 -- Autonomo  --  Currently Working on:
+                   Technical Lead -- GFcl       ||        Docente IT -- Q360 / Experis Academy / FotIT / ItConsulting / Masterd D
+
+
+Sono un programmatore OOP prestato per talento all'arte del tutoring, in cerca del mio prossimo obbiettivo, dopo un anno di gestione tecnica in una piccola realtà del settore, di formazione e docenze continue , adesso voglio trovare un ruolo gestionale all'interno di una realtà più amplia e tecnica, punto ad offrire la mia professionalità e le mie conoscenze con alla base anche una grande voglia di imparare continuamente e la speranza di poter integrare l'esperienza acquisita in precedenza con pratiche aziendali consolidate e mind set nuovi.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
